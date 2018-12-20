@@ -3,7 +3,7 @@ random things, idk
 
 > I'm learning a lot about myself being alone, and doing what I'm doing. 
 
-> This is a quote
+> This is a quotess
 
 commands:
 ```
