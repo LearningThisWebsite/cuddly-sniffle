@@ -5,8 +5,9 @@ random things, idk
 
 commands:
 ```
-git pull
-git push
-git commit
-git status
+git pull - fetch and download content
+git add *filename* - stages changes ready for commit
+git commit - adds comment to changes 
+git push - pushes changes to repository
+git status - idk lol
 ```
